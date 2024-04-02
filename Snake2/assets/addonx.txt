@@ -1,0 +1,36 @@
+add ons
+
+hindernisse platzieren
+farbe ändern
+steuerung umdrehen
+schneller, langsamer
+apple des snake block entfernen
+menue
+an grenze game over oder an anderer seite wieder rauskommen
+food zählt auch als gegessen wenn es einen anderen block als den Kopf berührt
+
+
+
+design: transparen outerglow shatten
+
+
+pausenmenü liegt über ausgegrautem spielefeld
+
+irgendwas in der art mit dem hier     
+// elements.playfield.style.display = "none"
+
+    // elements.pause.style.width = `${settings.width}`
+    // elements.pause.style.position = ""
+    // elements.playfield.style.position = 'absolute'
+    // console.log(elements.playfield.style.position);
+
+ui gleich breit wie spielfeld
+punktanzeige im spielfeld?
+
+webcomponents ausbauen
+
+game over an rechter und unterer seite schon mit erstem block
+
+highscore
+
+bei gameover sollte man das pausen menü nicht aufrufen können
